@@ -1,10 +1,10 @@
 package utilidades;
 
-public class ChipPerro {
+public class ChipPerrp {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
-		System.out.println("perro.");
 	}
 
 }
